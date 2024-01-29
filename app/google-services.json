@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "38042484142",
+    "project_id": "wtm-backend-e46d7",
+    "storage_bucket": "wtm-backend-e46d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38042484142:android:624a0f1e21c9e4c1a45c3f",
+        "android_client_info": {
+          "package_name": "com.debbie.jan_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38042484142-3e60biuh2kbdur0suhnf7ndt8pq3ep1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.debbie.jan_",
+            "certificate_hash": "0fbadad3f687ce2082621a62fa42ecfcac054554"
+          }
+        },
+        {
+          "client_id": "38042484142-bf6v1fccksoeq4fde10bcqhd4ldtlmmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9AzgRZuY1S9alhFQaNCEqcRp7Fxu7xrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38042484142-bf6v1fccksoeq4fde10bcqhd4ldtlmmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
